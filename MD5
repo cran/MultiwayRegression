@@ -1,0 +1,13 @@
+35b6b1042cf0940cef35c9ab1bcd301c *DESCRIPTION
+1c575d1d9436ce7f1484174a342e9b8a *NAMESPACE
+f870da15002dbdca6ee6f955bbd0e8ea *R/ctprod.R
+b178f514996be4da69f5da99561b06e3 *R/rrr.R
+16012279bf381f3c609a87ce338e8b3c *R/rrrBayes.R
+4f8625a7fad60c0dda189046c160f73b *data/SimData.rda
+d9faf7dc3d7ad9eb3602d94305985560 *man/MultiwayRegression-package.Rd
+32ddd7ffca0f619f0ffe04fc712ef5cf *man/SimData.Rd
+52860a8fc3cdf5a6d110c993daebf4e3 *man/X.Rd
+dd43b484a45a728d3abf55b40698a4e0 *man/Y.Rd
+95414899f28828f35c0b02d5514cdf79 *man/ctprod.Rd
+b84d8eef6f359e2ef17f9404b07336fa *man/rrr.Rd
+c15537a91e5ec4edea1cefc6f48f403f *man/rrrBayes.Rd
